@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @berryalen02
 - 👀 我对信息安全很感兴趣
 -     I'm interested in information security.
-- 🌱 目前，我正在学习前端基础，如HTTP、HTML、JS、PHP...同时在学习C语言以加强我的编程以及`代码审计`能力。
+- 🌱 正在学习PHP、PYTHON等语言
 - 
-- 💞️ 目前正在进一步学习常见WEB漏洞(OWASP)
+- 💞️ 目前正在进一步学习sql注入
 - 
 - :)
 -  
