@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @berryalen02
 - 👀 I'm interested in Secure Development.
 - 🌱
-- 💞️ 
-- 📫I believe you don't want to contact me.               :)
+- 💞️ My ID: 天堂猪(berryalen02)
+- 📫I believe you don't want to contact me. <^_^>
 - # :)
 
 <!---
