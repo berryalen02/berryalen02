@@ -6,9 +6,7 @@
 
 📫I believe you don't need to contact me.
 
-🌱If necessary, please ask for my contact information.
-
-# :)
+🌱If necessary, please ask for my contact information. :)
 
 <!---
 berryalen02/berryalen02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
