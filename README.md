@@ -1,6 +1,6 @@
 👋 Hi ^_^
 
-💞️ I'm 天堂猪(@berryalen02)
+💞️ I'm @berryalen02
 
 👀 I'm interested in Secure Development.
 
